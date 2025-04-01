@@ -4,6 +4,7 @@ Overview:-
 This project is a Plagiarism Detection System that analyzes text similarity to identify copied or unoriginal content. It leverages AI and ML techniques to compare documents and detect potential plagiarism.
 
 Features:-
+
 Text Similarity Analysis: Uses NLP techniques 
 
 Multiple File Support: Works with TXT, PDF, and DOCX formats.
