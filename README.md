@@ -9,11 +9,16 @@ Text Similarity Analysis: Uses NLP techniques
 Multiple File Support: Works with TXT, PDF, and DOCX formats.
 
 Fast & Scalable: Optimized for large datasets with efficient algorithms.
+
 Visualization: Provides similarity scores and heatmaps for better insights.
+
 API & Web Interface: Can be integrated into websites and applications.
 
 Tech Stack:-
+
 Python
+
 NLP Libraries: NLTK,Scikit-learn
+
 Vectorization: TF-IDF
 
