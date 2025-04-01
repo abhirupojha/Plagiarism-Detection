@@ -5,7 +5,9 @@ This project is a Plagiarism Detection System that analyzes text similarity to i
 
 Features:-
 Text Similarity Analysis: Uses NLP techniques 
+
 Multiple File Support: Works with TXT, PDF, and DOCX formats.
+
 Fast & Scalable: Optimized for large datasets with efficient algorithms.
 Visualization: Provides similarity scores and heatmaps for better insights.
 API & Web Interface: Can be integrated into websites and applications.
